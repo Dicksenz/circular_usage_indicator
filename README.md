@@ -1,4 +1,4 @@
-# easy_onboarding
+# circular_usage_indicator
 
 A fully customized Circular usage indicator with percentage label or custom label.
 
