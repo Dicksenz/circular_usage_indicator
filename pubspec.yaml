@@ -2,7 +2,7 @@ name: circular_usage_indicator
 description: A fully customized Circular usage indicator with percentage label or custom label for example to show data usage.
 version: 0.0.1
 # author:
-homepage:
+homepage: https://github.com/Dicksenz/circular_usage_indicator
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
